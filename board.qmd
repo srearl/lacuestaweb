@@ -1,0 +1,84 @@
+---
+title: "LaCuesta Board"
+toc: true
+toc-title: on this page
+toc-location: left
+logo: img/logo.png
+---
+
+## board members
+
+```{r}
+#| echo: false
+
+tibble::tibble(
+    member = c(
+      "S. Earl",
+      "M. Gillis",
+      "B. Snow",
+      "S. Tugenberg",
+      "W. Monie"
+      ),
+    role = c(
+      "vice president",
+      "",
+      "secretary, treasurer",
+      "",
+      "president"
+      ),
+    `committee(s)` = c(
+      "landscaping",
+      "communications",
+      "landscaping",
+      "compliance",
+      "landscaping"
+      ),
+      term_ending = c(
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025"
+      )
+    ) |>
+    gt::gt()
+
+```
+
+
+## committees
+
+### Architecture
+
+Rutrum erat urna ridiculus tincidunt lorem montes dignissim etiam aliquet eros volutpat scelerisque, senectus justo habitant ad faucibus fermentum primis conubia fringilla auctor mollis. Mi lobortis lacus per elementum class fringilla auctor accumsan rhoncus maecenas penatibus, adipiscing tristique dui pulvinar habitasse dolor in nascetur duis laoreet, eget justo convallis magna elit cum ad vehicula cursus pretium.
+
+
+### CASA
+
+Rutrum erat urna ridiculus tincidunt lorem montes dignissim etiam aliquet eros volutpat scelerisque, senectus justo habitant ad faucibus fermentum primis conubia fringilla auctor mollis. Mi lobortis lacus per elementum class fringilla auctor accumsan rhoncus maecenas penatibus, adipiscing tristique dui pulvinar habitasse dolor in nascetur duis laoreet, eget justo convallis magna elit cum ad vehicula cursus pretium.
+
+
+### Maintenance
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit sapien, quisque luctus potenti scelerisque non aliquam vehicula justo fames, nullam egestas placerat vulputate feugiat viverra nisl. Venenatis placerat auctor netus fermentum vulputate conubia libero mauris, suscipit viverra bibendum sem nunc et natoque, litora dolor hac cursus aenean integer etiam.
+
+
+### Compliance
+
+Rutrum erat urna ridiculus tincidunt lorem montes dignissim etiam aliquet eros volutpat scelerisque, senectus justo habitant ad faucibus fermentum primis conubia fringilla auctor mollis. Mi lobortis lacus per elementum class fringilla auctor accumsan rhoncus maecenas penatibus, adipiscing tristique dui pulvinar habitasse dolor in nascetur duis laoreet, eget justo convallis magna elit cum ad vehicula cursus pretium.
+
+
+### Landscaping
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit sapien, quisque luctus potenti scelerisque non aliquam vehicula justo fames, nullam egestas placerat vulputate feugiat viverra nisl. Venenatis placerat auctor netus fermentum vulputate conubia libero mauris, suscipit viverra bibendum sem nunc et natoque, litora dolor hac cursus aenean integer etiam.
+
+
+## meeting minutes
+
+::: document
+<a href="https://www.dropbox.com/s/0ugxesq2e849d29/Dahm_et_al_2015.pdf?dl=0" target="_blank" rel="noopener noreferrer">2022-08-14</a>
+:::
+
+::: document
+<a href="https://www.dropbox.com/s/0ugxesq2e849d29/Dahm_et_al_2015.pdf?dl=0" target="_blank" rel="noopener noreferrer">2022-06-14</a>
+:::

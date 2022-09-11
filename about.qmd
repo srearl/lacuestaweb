@@ -1,0 +1,51 @@
+---
+format: 
+  html:
+    page-layout: full
+---
+
+### LaCuesta HOA
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat nisl vel pretium lectus. Aliquam id diam maecenas ultricies mi eget. Eu turpis egestas pretium aenean pharetra magna ac. Tristique nulla aliquet enim tortor at auctor.
+
+:::: {layout-ncol=2}
+
+::: {.column}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque volutpat ac tincidunt vitae semper quis lectus nulla. Mattis enim ut tellus elementum sagittis vitae et leo duis. Et malesuada fames ac turpis egestas integer eget. Vitae sapien pellentesque habitant morbi tristique.
+
+:::
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| error: false
+#| output: true
+#| include: true
+
+lacuesta_polygon <- sf::st_read("./documents/lacuesta.geojson") |>
+  sf::st_transform(crs = 4326)
+
+library(leaflet)
+
+leaflet::leaflet() |>
+  addTiles() |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  addPolygons(data = lacuesta_polygon)
+```
+
+::::
+
+### contact us
+
+The best way to reach us is to write to a member of the LaCuesta Board, you can reach us at:
+
+- president@lacustahoa.com
+- lacuestaboard@lacuesta.com
+
+#### mailing address
+
+8390 E Via De Ventura F-110  
+Scottsdale, Arizona  
+85258

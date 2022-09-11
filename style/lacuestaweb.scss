@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$link-color: #4f7c8d;
+
+/*-- scss:rules --*/
+
+.document{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/icons8-document-128.png");
+}
+
+.fall-party{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/icons8-fall-64.png");
+}
+
+.board-meeting{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/icons8-meeting-64.png");
+}

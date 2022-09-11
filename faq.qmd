@@ -1,0 +1,32 @@
+---
+title: "frequently asked questions"
+format: 
+  html:
+    page-layout: full
+---
+
+::: {.callout-note appearance="simple" collapse="true"}
+
+## How do I request a key to the tennis courts?
+
+Keys to the tennis courts have been issued to all homeowners of record and are to be transferred to new homeowners as a part of the sale / purchase of a Casa Buena property.  Replacement keys may be purchased for \$25 each.  Please contact any member of the Board of Directors to request replacement keys.
+
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+
+## Is parking a boat, RV or trailer on my property allowed?
+
+
+There are restrictions for parking boats, RV's, and trailers within the community.  These items must be concealed from public view and cannot be parked on the street.  The community CC&R's clearly define these restrictions and subject the homeowner to fines for violation.
+
+:::
+
+
+::: {.callout-note appearance="simple" collapse="true"}
+
+## What happens if I do not pay my assessment?
+
+The maintenance and management services incurred by the Association are dependent upon timely receipt of the assessments due from each homeowner. Late payments will result in a late charge as assessments are due on the first of the month. In addition, the CC&R’s allows the Association to charge late charges and interest and proceed with a lien on your property, or foreclosure proceeding for nonpayment of assessments.
+
+:::

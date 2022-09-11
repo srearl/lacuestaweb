@@ -1,0 +1,97 @@
+---
+title: "resources"
+toc: true
+toc-title: documents and resources
+toc-location: left
+logo: img/logo.png
+format: 
+  html:
+    page-layout: full
+---
+
+## CC&Rs
+
+Covenants, Conditions & Restrictions
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit sapien, quisque luctus potenti scelerisque non aliquam vehicula justo fames, nullam egestas placerat vulputate feugiat viverra nisl. Venenatis placerat auctor netus fermentum vulputate conubia libero mauris, suscipit viverra bibendum sem nunc et natoque, litora dolor hac cursus aenean integer etiam.
+
+::: document
+<a href="documents/ccrs_phase_I.pdf" target="_blank" rel="noopener noreferrer">CC&Rs_phase_I</a>
+:::
+
+::: document
+<a href="documents/ccrs_phase_II.pdf" target="_blank" rel="noopener noreferrer">CC&Rs_phase_II</a>
+:::
+
+::: document
+<a href="documents/ccrs_phase_III.pdf" target="_blank" rel="noopener noreferrer">CC&Rs_phase_III</a>
+:::
+
+
+## articles
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit sapien, quisque luctus potenti scelerisque non aliquam vehicula justo fames, nullam egestas placerat vulputate feugiat viverra nisl. Venenatis placerat auctor netus fermentum vulputate conubia libero mauris, suscipit viverra bibendum sem nunc et natoque, litora dolor hac cursus aenean integer etiam.
+
+::: document
+<a href="documents/articles.pdf" target="_blank" rel="noopener noreferrer">articles</a>
+:::
+
+
+## ByLaws
+
+The Amendment to the Bylaws of Casa Buena (Version 8.0)... included here  was approved by the Board of Directors on June 14, 2018 and amends Version 7.0 of the Bylaws that had been approved on February 8, 2017 by the Board of Directors and recorded on February 15, 2017. The Version 8.0 changes were technical in nature and included:
+
+• Changing the word Member to Owner so as to be consistent with terminology through the Bylaws and other Association documents.
+• Changing the term absentee ballot to written ballet to be consistent with the HOA Rules and other Association documents.
+• Removing filing Corporation Commission reports from the Treasurer's responsibilities and adding to the Secretary's responsibilities.
+
+::: document
+
+<a href="documents/bylaws.pdf" target="_blank" rel="noopener noreferrer">ByLaws</a>
+
+:::
+
+
+
+
+## fee schedule
+
+Rutrum erat urna ridiculus tincidunt lorem montes dignissim etiam aliquet eros volutpat scelerisque, senectus justo habitant ad faucibus fermentum primis conubia fringilla auctor mollis. Mi lobortis lacus per elementum class fringilla auctor accumsan rhoncus maecenas penatibus, adipiscing tristique dui pulvinar habitasse dolor in nascetur duis laoreet, eget justo convallis magna elit cum ad vehicula cursus pretium.
+
+
+## architectural review
+
+All exterior modifications require prior approval by the [Architectural Review Committee](board.qmd#architecture). For any assistance or guidance with the HOA with regards to exterior remodels, updates, painting, etc., please submit an architectural review form to the Architectural Review Committee.
+
+::: {layout-ncol=2}
+
+::: document
+
+<!--
+<a href="https://www.homedepot.com/" target="_blank" rel="noopener noreferrer">architectural review form</a>
+![](documents/architectural_change_form.pdf)
+-->
+<a href="documents/architectural_change_form.pdf" target="_blank" rel="noopener noreferrer">architectural review form</a>
+
+:::
+
+![](img/wall.jpg){fig-align="center"}
+
+:::
+
+
+## tennis court reservations
+
+LaCuesta maintains two tennis courts that are available for all homeowners to enjoy.
+
+:::: {layout-ncol=2}
+
+::: document
+
+[make a reservation](https://www.ilovetennis.ca/)
+
+:::
+
+![](img/tennis_court.jpg){fig-align="center"}
+
+::::

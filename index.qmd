@@ -1,0 +1,25 @@
+---
+title:  "welcome to the LaCuesta HOA"
+format: 
+  html:
+    page-layout: full
+---
+
+![](img/entrance.png)
+
+## announcements
+
+- proposed rule changes to be discussed at the September meeting of the LaCuesta Board
+  + palm tree trimming...
+  + parking...
+
+
+## events and activities
+
+::: board-meeting
+September meeting of the LaCuesta Board (2022-09-27). Homeowners are welcome. Contact a member of the Board for meeting details 
+:::
+
+::: fall-party
+fall party: October ....
+:::
